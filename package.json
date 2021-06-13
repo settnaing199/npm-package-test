@@ -1,4 +1,15 @@
 {
     "name": "@setthein/test",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "description": "spread the message",
+    "license": "MIT",
+    "repository": "setthein/test",
+    "main": "index.js",
+    "keywords": [
+        "test",
+        "npm",
+        "package",
+        "setthein"
+    ]
+
 }
