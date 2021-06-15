@@ -57,6 +57,12 @@ app.use('/graphql',
 if you want to use graphQL, you can use a different endpoint for atlantis requests in devlopment. ie. app.use('/atlantis', atlants ..)
 
 ## Contributors:
-Atlantis-cache is an open source npm package in collaboration with OSlabs-beta
+[Coral Fussman](https://github.com/coralfussman)
+
+[Sett Hein](https://github.com/settnaing199)
+
+[Erik Matevosyan](https://github.com/erik-matevosyan)
+
+[Erik Rogel](https://github.com/erikjrogel)
 
 
