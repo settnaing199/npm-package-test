@@ -7,7 +7,8 @@ If Redis is not installed in your local machine:
   - Redis on Mac with HomeBrew:
     - At the terminal, `brew install redis`
     - start redis sever with `redis-server`
-    - test if redis server is running with `redis-cli ping`
+    - default redis port is `localhost:6379`
+    - ping your redis server to verify if it's running: `redis-cli ping`
 
   
 
@@ -19,7 +20,7 @@ npm i atlantis-cache
 
 In Node.js:
 
-```
+```js
 const express = require('express');
 const redis = require('redis');
 const { graphql } = require('graphql');
