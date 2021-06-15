@@ -25,8 +25,12 @@ const redisClient = redis.createClient({
 });
 
 // Define your endpoint for graphQL queries and pass in your redis, and schema
-app.use('/graphql', atlantis(redisClient, schema), async (req, res) => {
-  return res.status(202).json({ data: res.locals.graphQLResponse });
+app.use('/graphql', 
+  atlantis(redisClient, schema), 
+  async (req, res) => {
+    return res
+            .status(202)
+            .json({ data: res.locals.graphQLResponse });
 });
 ```
 
