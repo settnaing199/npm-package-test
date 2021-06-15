@@ -6,22 +6,22 @@
 ## Getting Started
 
 ### 1. Installing and Connecting to a Redis Server
-If Redis is not installed in your local machine:
-  - Redis on Mac with HomeBrew:
+This package is meant to work in conjunction with redis. To install redis:
+  - Mac-HomeBrew:
     - At the terminal, `brew install redis`
     - start redis server with `redis-server`
-    - default redis port is `localhost:6379`
     - ping your redis server to verify if it's running: `redis-cli ping`
+    - Keep note of the redis port. Default port is `6379`
 
-  - Redis on Linux or non-Homebrew:
+  - Linux or non-Homebrew:
     - Download appropriate version of Redis from redis.io/download
     - Follow the instructions
     - Once installation is completed, start redis server with `redis-server`
+    - Keep note of the redis port. Default port is `6379`
 
 ### 2. Installing Atlantis-Cache Package
 
 `npm i atlantis-cache`
-
 
 In Node.js:
 
