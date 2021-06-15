@@ -38,7 +38,7 @@ Note:
 
 if you want to use graphiQL, you can use a different endpoint for atlantis requests in devlopment. ie. app.use('/atlantis', atlants ..)
 
-###Contributors:
+### Contributors:
 Atlantis-cache is an open source npm package in collaboration with OSlabs-beta
 
 
