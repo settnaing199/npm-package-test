@@ -51,7 +51,7 @@ app.use('/graphql',
 });
 ```
 
-Note:
+#### Note:
 
 if you want to use graphQL, you can use a different endpoint for atlantis requests in devlopment. ie. app.use('/atlantis', atlants ..)
 
