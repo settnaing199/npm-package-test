@@ -1,7 +1,7 @@
 # Atlantis-Cache v1.0.2
 
 ## About
-Atlantis-Cache is an easy-to-use and lightweight server-side caching library for GraphQL
+Atlantis-Cache is an easy-to-use and lightweight server-side caching library for GraphQL. Alantis-Cache leverages redis 
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ This package is meant to work in conjunction with redis. To install redis:
     - Keep note of the redis port. Default port is `6379`
 
 ### 2. Installing Atlantis-Cache
-Install atlantis-cache as an npm module and save it to your package.json as a dependency.
+Install Atlantis-Cache as an npm module and save it to your package.json as a dependency.
 
 `npm i atlantis-cache`
 
