@@ -7,7 +7,7 @@ using npm:
 npm i atlantis-cache
 ```
 
-## In Node.js:
+In Node.js:
 
 ```
 const express = require('express');
@@ -34,5 +34,11 @@ app.use('/graphql',
 });
 ```
 
-##
+Note:
+
+if you want to use graphiQL, you can use a different endpoint for atlantis requests in devlopment. ie. app.use('/atlantis', atlants ..)
+
+###Contributors:
+Atlantis-cache is an open source npm package in collaboration with OSlabs-beta
+
 
