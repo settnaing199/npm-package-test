@@ -1,10 +1,10 @@
 # Atlantis-Cache v1.0.2
 
-### About
+## About
 Atlantis-Cache is an easy-to-use and lightweight server-side caching library for GraphQL.
 
 
-### Getting Started
+## Getting Started
 
 ### 1. Installing and Connecting to a Redis Server
 This package is meant to work in conjunction with redis. To install redis:
