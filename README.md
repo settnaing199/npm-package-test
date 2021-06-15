@@ -1,7 +1,7 @@
 # Atlantis-Cache v1.0.2
 
 ### About
-Atlantis-Cache is an easy-to-use and lightweight library . GraphQL leverages redis t
+Atlantis-Cache is an easy-to-use and lightweight server-side caching library for GraphQL.
 
 
 ### Getting Started
