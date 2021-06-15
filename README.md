@@ -58,11 +58,8 @@ if you want to use graphQL, you can use a different endpoint for atlantis reques
 
 ## Contributors:
 [Coral Fussman](https://github.com/coralfussman)
-
 [Sett Hein](https://github.com/settnaing199)
-
 [Erik Matevosyan](https://github.com/erik-matevosyan)
-
 [Erik Rogel](https://github.com/erikjrogel)
 
 
