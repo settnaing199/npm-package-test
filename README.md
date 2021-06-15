@@ -1,16 +1,17 @@
 # Atlantis-Cache v1.0.2
 
-## About
+### About
+Atlantis-Cache is an easy-to-use and lightweight library . GraphQL leverages redis t
 
 
-## Getting Started
+### Getting Started
 
 ### 1. Installing and Connecting to a Redis Server
 This package is meant to work in conjunction with redis. To install redis:
   - Mac-HomeBrew:
     - At the terminal, `brew install redis`
-    - start redis server with `redis-server`
-    - ping your redis server to verify if it's running: `redis-cli ping`
+    - Start redis server with `redis-server`
+    - Ping your redis server to verify if it's running: `redis-cli ping`
     - Keep note of the redis port. Default port is `6379`
 
   - Linux or non-Homebrew:
@@ -52,7 +53,7 @@ app.use('/graphql',
 
 Note:
 
-if you want to use graphiQL, you can use a different endpoint for atlantis requests in devlopment. ie. app.use('/atlantis', atlants ..)
+if you want to use graphQL, you can use a different endpoint for atlantis requests in devlopment. ie. app.use('/atlantis', atlants ..)
 
 ### Contributors:
 Atlantis-cache is an open source npm package in collaboration with OSlabs-beta
