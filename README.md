@@ -11,14 +11,15 @@ This package is meant to work in conjunction with redis. To install redis:
   - Mac-HomeBrew:
     - At the terminal, `brew install redis`
     - Start redis server with `redis-server`
-    - Ping your redis server to verify if it's running: `redis-cli ping`
-    - Keep note of the redis port. Default port is `6379`
+    - Test if redis server is running: `redis-cli ping`. If it replies “PONG”, then it’s good to go!
+    - Default port is `6379` (Keep note of the port)
 
   - Linux or non-Homebrew:
     - Download appropriate version of Redis from redis.io/download
     - Follow the instructions
     - Once installation is completed, start redis server with `redis-server`
-    - Keep note of the redis port. Default port is `6379`
+    - Test if redis server is running: `redis-cli ping`. If it replies “PONG”, then it’s good to go!
+    - Default port is `6379` (Keep note of the port)
 
 ### 2. Installing Atlantis-Cache
 Install Atlantis-Cache as an npm module and save it to your package.json as a dependency.
