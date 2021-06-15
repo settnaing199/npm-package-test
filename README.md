@@ -57,9 +57,10 @@ app.use('/graphql',
 if you want to use graphQL, you can use a different endpoint for atlantis requests in devlopment. ie. app.use('/atlantis', atlants ..)
 
 ## Contributors:
-- [Coral Fussman](https://github.com/coralfussman)
-- [Sett Hein](https://github.com/settnaing199)
-- [Erik Matevosyan](https://github.com/erik-matevosyan)
-- [Erik Rogel](https://github.com/erikjrogel)
+- Coral Fussman - [Github](https://github.com/coralfussman) | [Linkedin](https://www.linkedin.com/in/coral-fussman-21721538/)
+- Sett Hein -[Github](https://github.com/settnaing199) | [Linkedin](https://www.linkedin.com/in/sett-hein/)
+- Erik Matevosyan - [Github](https://github.com/erik-matevosyan) | [Linkedin](https://www.linkedin.com/in/erik-matevosyan/)
+- Erik Rogel - [Github](https://github.com/erikjrogel) | [Linkedin](https://www.linkedin.com/in/erikjrogel/)
+
 
 
