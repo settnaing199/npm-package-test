@@ -24,7 +24,7 @@ This package is meant to work in conjunction with redis. To install redis:
 
 `npm i atlantis-cache`
 
-### 3. How to Use
+## How to Use Atlantis-Cache
 
 ```js
 const express = require('express');
@@ -55,7 +55,7 @@ app.use('/graphql',
 
 if you want to use graphQL, you can use a different endpoint for atlantis requests in devlopment. ie. app.use('/atlantis', atlants ..)
 
-### Contributors:
+## Contributors:
 Atlantis-cache is an open source npm package in collaboration with OSlabs-beta
 
 
