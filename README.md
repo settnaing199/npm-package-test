@@ -1,8 +1,18 @@
 # Atlantis-Cache v1.0.2
 
 ## Installation
-using npm:
 
+### 1. Redis
+If Redis is not installed in your local machine:
+  - Redis on Mac with HomeBrew:
+    - At the terminal, `brew install redis`
+    - start redis sever with `redis-server`
+    - test if redis server is running with `redis-cli ping`
+
+  
+
+### 2. Atlantis-Cache 
+using npm:
 ```
 npm i atlantis-cache
 ```
