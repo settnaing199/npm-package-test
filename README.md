@@ -24,7 +24,7 @@ This package is meant to work in conjunction with redis. To install redis:
 
 `npm i atlantis-cache`
 
-In Node.js:
+### 3. How to Use
 
 ```js
 const express = require('express');
