@@ -1,5 +1,5 @@
 <p align="center">
-# Atlantis-Cache v1.0.2
+<h1>Atlantis-Cache v1.0.2</h1>
 </p>
 ## About
 Atlantis is a light-weight library that leverages Redis key-value store to dynamically cache GraphQL queries as responses. Atlantis is able to dynamically store deeply-nested queries and maintain the most recent and relevant data as mutations are made to the database. Queries that are more shallow and within the scope of previous queries are pulled directly from the cache, offering further flexibility and precision, without additional database requests or overriding previous key-values.
