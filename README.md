@@ -17,7 +17,7 @@ This package is meant to work in conjunction with redis. To install redis:
     - Default port is `6379` (Keep note of the port)
 
   - Linux or non-Homebrew:
-    - Download appropriate version of Redis from redis.io/download
+    - Download appropriate version of Redis from [redis.io/download](redis.io/download)
     - Follow the instructions
     - Once installation is completed, start redis server with `redis-server`
     - Default port is `6379` (Keep note of the port)
